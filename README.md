@@ -9,10 +9,10 @@ In the project directory, you can run:
 ### `npm run dev`
 
 ### `create .env file`
-PORT= \
-MONGO_URI= \
-NODE_ENV= \
-JWT_SECRET= 
+PORT= 5000\
+MONGO_URI= 'mongodb+srv://therufet721:R11221995r17@cluster0.eghpme7.mongodb.net/?retryWrites=true&w=majority' \
+NODE_ENV= production\
+JWT_SECRET= rufat123456 
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
